@@ -101,6 +101,7 @@ footer{
   .slide1 {
     Background-image: url('pic1.jpg');
   }
+  /*}
   
   .slide2 {
     Background-image: url('pic2.jpg');
@@ -108,9 +109,9 @@ footer{
   
   .slide3 {
     Background-image: url('pic3.jpg');
-  }
+  }*/
   
-  @keyframes slide {
+ /* @keyframes slide {
     0% {
       Opacity: 1;
       Transform: scale(1);
@@ -131,5 +132,5 @@ footer{
       Opacity: 1;
       Transform: scale(1);
     }
-  }
+  }*/
   
